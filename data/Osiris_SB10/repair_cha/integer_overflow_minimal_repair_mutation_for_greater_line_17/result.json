@@ -1,0 +1,20 @@
+{
+  "contract": "integer_overflow_minimal_repair_mutation_for_greater_line_17",
+  "tool": "osiris",
+  "start": 1591371964.4877129,
+  "end": 1591371965.7131188,
+  "duration": 1.2254059314727783,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 18,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/integer_overflow_minimal_repair_mutation_for_greater_line_17.sol",
+      "name": "IntegerOverflowMinimal"
+    }
+  ]
+}

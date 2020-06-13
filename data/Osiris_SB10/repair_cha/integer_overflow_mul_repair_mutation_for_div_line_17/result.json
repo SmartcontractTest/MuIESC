@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_mul_repair_mutation_for_div_line_17",
+  "tool": "osiris",
+  "start": 1591371931.6139557,
+  "end": 1591371963.2450418,
+  "duration": 31.631086111068726,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/integer_overflow_mul_repair_mutation_for_div_line_17.sol",
+      "name": "IntegerOverflowMul"
+    }
+  ]
+}

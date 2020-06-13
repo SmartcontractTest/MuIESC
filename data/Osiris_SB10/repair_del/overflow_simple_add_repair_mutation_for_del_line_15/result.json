@@ -1,0 +1,20 @@
+{
+  "contract": "overflow_simple_add_repair_mutation_for_del_line_15",
+  "tool": "osiris",
+  "start": 1591372316.2132397,
+  "end": 1591372317.761153,
+  "duration": 1.5479133129119873,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 14,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/overflow_simple_add_repair_mutation_for_del_line_15.sol",
+      "name": "Overflow_Add"
+    }
+  ]
+}

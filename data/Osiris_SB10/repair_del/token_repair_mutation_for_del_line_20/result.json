@@ -1,0 +1,25 @@
+{
+  "contract": "token_repair_mutation_for_del_line_20",
+  "tool": "osiris",
+  "start": 1591372285.1237433,
+  "end": 1591372287.7166562,
+  "duration": 2.5929129123687744,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 23,
+          "column": 6,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 21,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/token_repair_mutation_for_del_line_20.sol",
+      "name": "Token"
+    }
+  ]
+}

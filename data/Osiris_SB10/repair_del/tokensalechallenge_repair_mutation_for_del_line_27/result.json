@@ -1,0 +1,14 @@
+{
+  "contract": "tokensalechallenge_repair_mutation_for_del_line_27",
+  "tool": "osiris",
+  "start": 1591372306.675242,
+  "end": 1591372316.2027614,
+  "duration": 9.527519464492798,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/tokensalechallenge_repair_mutation_for_del_line_27.sol",
+      "name": "TokenSaleChallenge"
+    }
+  ]
+}

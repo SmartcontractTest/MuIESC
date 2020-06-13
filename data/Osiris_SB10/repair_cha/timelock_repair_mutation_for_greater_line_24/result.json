@@ -1,0 +1,20 @@
+{
+  "contract": "timelock_repair_mutation_for_greater_line_24",
+  "tool": "osiris",
+  "start": 1591371888.1907942,
+  "end": 1591371889.9028268,
+  "duration": 1.7120325565338135,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 29,
+          "column": 10,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/timelock_repair_mutation_for_greater_line_24.sol",
+      "name": "TimeLock"
+    }
+  ]
+}

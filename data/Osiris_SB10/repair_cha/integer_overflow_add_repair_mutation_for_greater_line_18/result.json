@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_add_repair_mutation_for_greater_line_18",
+  "tool": "osiris",
+  "start": 1591371899.6375082,
+  "end": 1591371900.8964617,
+  "duration": 1.25895357131958,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/integer_overflow_add_repair_mutation_for_greater_line_18.sol",
+      "name": "IntegerOverflowAdd"
+    }
+  ]
+}

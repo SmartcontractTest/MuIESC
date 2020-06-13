@@ -1,0 +1,20 @@
+{
+  "contract": "integer_overflow_minimal_repair_mutation_for_del_line_17",
+  "tool": "osiris",
+  "start": 1591372302.6217577,
+  "end": 1591372303.8963103,
+  "duration": 1.274552583694458,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 18,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/integer_overflow_minimal_repair_mutation_for_del_line_17.sol",
+      "name": "IntegerOverflowMinimal"
+    }
+  ]
+}

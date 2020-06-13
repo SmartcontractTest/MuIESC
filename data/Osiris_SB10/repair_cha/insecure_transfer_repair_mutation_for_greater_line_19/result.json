@@ -1,0 +1,14 @@
+{
+  "contract": "insecure_transfer_repair_mutation_for_greater_line_19",
+  "tool": "osiris",
+  "start": 1591371969.8383496,
+  "end": 1591371971.2071764,
+  "duration": 1.3688268661499023,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/insecure_transfer_repair_mutation_for_greater_line_19.sol",
+      "name": "IntegerOverflowAdd"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contract": "token_repair_mutation_for_greater_line_20",
+  "tool": "osiris",
+  "start": 1591371906.0968032,
+  "end": 1591371907.5679004,
+  "duration": 1.4710972309112549,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 23,
+          "column": 6,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 21,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/token_repair_mutation_for_greater_line_20.sol",
+      "name": "Token"
+    }
+  ]
+}

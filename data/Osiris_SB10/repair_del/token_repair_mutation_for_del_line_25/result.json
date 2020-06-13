@@ -1,0 +1,20 @@
+{
+  "contract": "token_repair_mutation_for_del_line_25",
+  "tool": "osiris",
+  "start": 1591372305.1249585,
+  "end": 1591372306.6591516,
+  "duration": 1.5341930389404297,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 24,
+          "column": 6,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/token_repair_mutation_for_del_line_25.sol",
+      "name": "Token"
+    }
+  ]
+}

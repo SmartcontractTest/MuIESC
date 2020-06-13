@@ -1,0 +1,25 @@
+{
+  "contract": "tokensalechallenge_repair_mutation_for_div_line_23",
+  "tool": "osiris",
+  "start": 1591371866.2999995,
+  "end": 1591371888.181378,
+  "duration": 21.881378412246704,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 23,
+          "column": 31,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 23,
+          "column": 31,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/tokensalechallenge_repair_mutation_for_div_line_23.sol",
+      "name": "TokenSaleChallenge"
+    }
+  ]
+}

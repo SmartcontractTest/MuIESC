@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_1_repair_mutation_for_greater_line_16",
+  "tool": "osiris",
+  "start": 1591371968.6389773,
+  "end": 1591371969.828122,
+  "duration": 1.1891446113586426,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/integer_overflow_1_repair_mutation_for_greater_line_16.sol",
+      "name": "Overflow"
+    }
+  ]
+}

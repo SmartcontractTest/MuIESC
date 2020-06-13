@@ -1,0 +1,25 @@
+{
+  "contract": "timelock_repair_mutation_for_del_line_17",
+  "tool": "osiris",
+  "start": 1591372319.259764,
+  "end": 1591372321.200894,
+  "duration": 1.9411301612854004,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 16,
+          "column": 10,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 29,
+          "column": 10,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/timelock_repair_mutation_for_del_line_17.sol",
+      "name": "TimeLock"
+    }
+  ]
+}

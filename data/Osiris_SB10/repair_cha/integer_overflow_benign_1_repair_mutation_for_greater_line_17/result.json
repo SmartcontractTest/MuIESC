@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_benign_1_repair_mutation_for_greater_line_17",
+  "tool": "osiris",
+  "start": 1591371963.254281,
+  "end": 1591371964.479051,
+  "duration": 1.2247700691223145,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_cha/integer_overflow_benign_1_repair_mutation_for_greater_line_17.sol",
+      "name": "IntegerOverflowBenign1"
+    }
+  ]
+}

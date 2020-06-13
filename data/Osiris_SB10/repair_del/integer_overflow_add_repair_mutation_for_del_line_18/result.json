@@ -1,0 +1,20 @@
+{
+  "contract": "integer_overflow_add_repair_mutation_for_del_line_18",
+  "tool": "osiris",
+  "start": 1591372333.69429,
+  "end": 1591372334.936505,
+  "duration": 1.2422151565551758,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 17,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/integer_overflow_add_repair_mutation_for_del_line_18.sol",
+      "name": "IntegerOverflowAdd"
+    }
+  ]
+}

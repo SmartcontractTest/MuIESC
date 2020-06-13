@@ -1,0 +1,20 @@
+{
+  "contract": "insecure_transfer_repair_mutation_for_del_line_19",
+  "tool": "osiris",
+  "start": 1591372283.68193,
+  "end": 1591372285.114188,
+  "duration": 1.432257890701294,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 18,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_del/insecure_transfer_repair_mutation_for_del_line_19.sol",
+      "name": "IntegerOverflowAdd"
+    }
+  ]
+}
