@@ -1,0 +1,29 @@
+{
+  "contract": "SMT_repair_mutation_for_inttruncate_213_4",
+  "tool": "osiris",
+  "start": 1591406432.6885397,
+  "end": 1591406492.3286169,
+  "duration": 59.640077114105225,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SMT_repair_mutation_for_inttruncate_213_4.sol",
+      "name": "Controlled"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SMT_repair_mutation_for_inttruncate_213_4.sol",
+      "name": "Owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SMT_repair_mutation_for_inttruncate_213_4.sol",
+      "name": "SMT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SMT_repair_mutation_for_inttruncate_213_4.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

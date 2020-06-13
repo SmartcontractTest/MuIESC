@@ -1,0 +1,24 @@
+{
+  "contract": "HUB_repair_mutation_for_del_line_244",
+  "tool": "osiris",
+  "start": 1591328200.1979516,
+  "end": 1591328214.9371672,
+  "duration": 14.739215612411499,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/HUB_repair_mutation_for_del_line_244.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/HUB_repair_mutation_for_del_line_244.sol",
+      "name": "StdToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/HUB_repair_mutation_for_del_line_244.sol",
+      "name": "UHubToken"
+    }
+  ]
+}

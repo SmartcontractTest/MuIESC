@@ -1,0 +1,29 @@
+{
+  "contract": "MESH_repair_mutation_for_del_line_213",
+  "tool": "osiris",
+  "start": 1591328002.6332517,
+  "end": 1591328148.1418464,
+  "duration": 145.50859475135803,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MESH_repair_mutation_for_del_line_213.sol",
+      "name": "Controlled"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MESH_repair_mutation_for_del_line_213.sol",
+      "name": "MESH"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MESH_repair_mutation_for_del_line_213.sol",
+      "name": "Owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MESH_repair_mutation_for_del_line_213.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

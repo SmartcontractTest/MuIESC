@@ -1,0 +1,8 @@
+{
+  "contract": "HUB_repair_mutation_for_inttruncate_256_1",
+  "tool": "osiris",
+  "start": 1591411390.352655,
+  "end": 1591411391.6238,
+  "duration": 1.2711451053619385,
+  "analysis": []
+}

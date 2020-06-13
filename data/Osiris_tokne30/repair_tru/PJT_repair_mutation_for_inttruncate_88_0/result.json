@@ -1,0 +1,25 @@
+{
+  "contract": "PJT_repair_mutation_for_inttruncate_88_0",
+  "tool": "osiris",
+  "start": 1591410432.6462748,
+  "end": 1591410484.279951,
+  "duration": 51.633676290512085,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 88,
+          "column": 1,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PJT_repair_mutation_for_inttruncate_88_0.sol",
+      "name": "PajeetConnect"
+    }
+  ]
+}

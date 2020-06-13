@@ -1,0 +1,40 @@
+{
+  "contract": "TGT_repair_mutation_for_del_line_118",
+  "tool": "osiris",
+  "start": 1591333882.4993243,
+  "end": 1591333984.452796,
+  "duration": 101.95347166061401,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 75,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 71,
+          "column": 5,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 121,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TGT_repair_mutation_for_del_line_118.sol",
+      "name": "MyAdvancedToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TGT_repair_mutation_for_del_line_118.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TGT_repair_mutation_for_del_line_118.sol",
+      "name": "token"
+    }
+  ]
+}

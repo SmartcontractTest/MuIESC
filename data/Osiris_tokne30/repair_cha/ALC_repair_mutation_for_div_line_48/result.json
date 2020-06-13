@@ -1,0 +1,14 @@
+{
+  "contract": "ALC_repair_mutation_for_div_line_48",
+  "tool": "osiris",
+  "start": 1591295345.9155707,
+  "end": 1591295353.3047845,
+  "duration": 7.389213800430298,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/ALC_repair_mutation_for_div_line_48.sol",
+      "name": "TVTToken"
+    }
+  ]
+}

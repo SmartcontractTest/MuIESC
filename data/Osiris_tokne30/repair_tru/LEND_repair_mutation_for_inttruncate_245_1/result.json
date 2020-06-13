@@ -1,0 +1,8 @@
+{
+  "contract": "LEND_repair_mutation_for_inttruncate_245_1",
+  "tool": "osiris",
+  "start": 1591400060.6091232,
+  "end": 1591400061.9171648,
+  "duration": 1.3080415725708008,
+  "analysis": []
+}

@@ -1,0 +1,44 @@
+{
+  "contract": "Mtc_repair_o_safemath_mutation_line_267",
+  "tool": "osiris",
+  "start": 1591358940.2459595,
+  "end": 1591359009.6870842,
+  "duration": 69.44112467765808,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "MtcToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Mtc_repair_o_safemath_mutation_line_267.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

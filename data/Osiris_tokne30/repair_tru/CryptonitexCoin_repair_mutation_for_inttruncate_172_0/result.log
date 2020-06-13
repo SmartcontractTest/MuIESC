@@ -1,0 +1,22 @@
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_172_0.sol:CryptonitexCoin:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 85.0%
+INFO:symExec:	  Arithmetic bugs: 	 True
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_172_0.sol:CryptonitexCoin:172:1
+totalSupply -=uint128(_value)
+^
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.0849151611 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_172_0.sol:TokenERC20:
+INFO:symExec:Running, please wait...

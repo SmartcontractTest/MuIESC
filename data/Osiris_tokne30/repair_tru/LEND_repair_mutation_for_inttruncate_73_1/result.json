@@ -1,0 +1,24 @@
+{
+  "contract": "LEND_repair_mutation_for_inttruncate_73_1",
+  "tool": "osiris",
+  "start": 1591421550.1270761,
+  "end": 1591421570.9756322,
+  "duration": 20.84855604171753,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LEND_repair_mutation_for_inttruncate_73_1.sol",
+      "name": "EthLendToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LEND_repair_mutation_for_inttruncate_73_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LEND_repair_mutation_for_inttruncate_73_1.sol",
+      "name": "StdToken"
+    }
+  ]
+}

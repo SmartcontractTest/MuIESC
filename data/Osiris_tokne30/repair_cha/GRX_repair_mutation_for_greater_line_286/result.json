@@ -1,0 +1,25 @@
+{
+  "contract": "GRX_repair_mutation_for_greater_line_286",
+  "tool": "osiris",
+  "start": 1591309568.4181771,
+  "end": 1591309621.991885,
+  "duration": 53.573707818984985,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 287,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/GRX_repair_mutation_for_greater_line_286.sol",
+      "name": "GRX"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/GRX_repair_mutation_for_greater_line_286.sol",
+      "name": "owned"
+    }
+  ]
+}

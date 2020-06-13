@@ -1,0 +1,35 @@
+{
+  "contract": "LGO_repair_mutation_for_inttruncate_200_0",
+  "tool": "osiris",
+  "start": 1591424654.4472492,
+  "end": 1591424738.150095,
+  "duration": 83.70284581184387,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LGO_repair_mutation_for_inttruncate_200_0.sol",
+      "name": "EIP20"
+    },
+    {
+      "errors": [
+        {
+          "line": 342,
+          "column": 31,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LGO_repair_mutation_for_inttruncate_200_0.sol",
+      "name": "Legolas"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LGO_repair_mutation_for_inttruncate_200_0.sol",
+      "name": "LegolasBase"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/LGO_repair_mutation_for_inttruncate_200_0.sol",
+      "name": "Ownable"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "contract": "SWFTC_repair_mutation_for_inttruncate_85_0",
+  "tool": "osiris",
+  "start": 1591393222.9851255,
+  "end": 1591393324.6983805,
+  "duration": 101.71325492858887,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 71,
+          "column": 5,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 75,
+          "column": 13,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SWFTC_repair_mutation_for_inttruncate_85_0.sol",
+      "name": "SwftCoin"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SWFTC_repair_mutation_for_inttruncate_85_0.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 85,
+          "column": 1,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/SWFTC_repair_mutation_for_inttruncate_85_0.sol",
+      "name": "token"
+    }
+  ]
+}

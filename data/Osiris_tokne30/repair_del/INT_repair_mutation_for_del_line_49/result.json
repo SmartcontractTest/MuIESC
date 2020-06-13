@@ -1,0 +1,35 @@
+{
+  "contract": "INT_repair_mutation_for_del_line_49",
+  "tool": "osiris",
+  "start": 1591327352.7231188,
+  "end": 1591327505.0157368,
+  "duration": 152.29261803627014,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_49.sol",
+      "name": "INT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_49.sol",
+      "name": "INTToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_49.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 51,
+          "column": 7,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_49.sol",
+      "name": "token"
+    }
+  ]
+}

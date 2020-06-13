@@ -1,0 +1,30 @@
+{
+  "contract": "SWFTC_repair_mutation_for_del_line_130",
+  "tool": "osiris",
+  "start": 1591320905.1141346,
+  "end": 1591321007.0831447,
+  "duration": 101.9690101146698,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 133,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/SWFTC_repair_mutation_for_del_line_130.sol",
+      "name": "SwftCoin"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/SWFTC_repair_mutation_for_del_line_130.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/SWFTC_repair_mutation_for_del_line_130.sol",
+      "name": "token"
+    }
+  ]
+}

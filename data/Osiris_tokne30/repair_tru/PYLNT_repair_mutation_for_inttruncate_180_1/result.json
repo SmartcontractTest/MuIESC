@@ -1,0 +1,30 @@
+{
+  "contract": "PYLNT_repair_mutation_for_inttruncate_180_1",
+  "tool": "osiris",
+  "start": 1591392857.0037048,
+  "end": 1591392909.1189523,
+  "duration": 52.11524748802185,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 181,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PYLNT_repair_mutation_for_inttruncate_180_1.sol",
+      "name": "PylonToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PYLNT_repair_mutation_for_inttruncate_180_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PYLNT_repair_mutation_for_inttruncate_180_1.sol",
+      "name": "owned"
+    }
+  ]
+}

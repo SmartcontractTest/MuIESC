@@ -1,0 +1,4 @@
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MARK_repair_mutation_for_inttruncate_140_0.sol:MyToken:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 92.8%

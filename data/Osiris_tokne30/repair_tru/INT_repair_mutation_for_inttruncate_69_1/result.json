@@ -1,0 +1,77 @@
+{
+  "contract": "INT_repair_mutation_for_inttruncate_69_1",
+  "tool": "osiris",
+  "start": 1591401110.1629922,
+  "end": 1591401262.1453638,
+  "duration": 151.9823715686798,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 142,
+          "column": 7,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 138,
+          "column": 16,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 141,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_69_1.sol",
+      "name": "INT"
+    },
+    {
+      "errors": [
+        {
+          "line": 142,
+          "column": 7,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 138,
+          "column": 16,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 141,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_69_1.sol",
+      "name": "INTToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_69_1.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 51,
+          "column": 7,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 49,
+          "column": 16,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 50,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_69_1.sol",
+      "name": "token"
+    }
+  ]
+}

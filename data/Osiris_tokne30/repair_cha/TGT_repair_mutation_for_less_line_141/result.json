@@ -1,0 +1,30 @@
+{
+  "contract": "TGT_repair_mutation_for_less_line_141",
+  "tool": "osiris",
+  "start": 1591312181.6075704,
+  "end": 1591312283.355016,
+  "duration": 101.7474455833435,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 142,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/TGT_repair_mutation_for_less_line_141.sol",
+      "name": "MyAdvancedToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/TGT_repair_mutation_for_less_line_141.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/TGT_repair_mutation_for_less_line_141.sol",
+      "name": "token"
+    }
+  ]
+}

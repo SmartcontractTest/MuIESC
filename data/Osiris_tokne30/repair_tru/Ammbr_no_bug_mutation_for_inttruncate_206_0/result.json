@@ -1,0 +1,8 @@
+{
+  "contract": "Ammbr_no_bug_mutation_for_inttruncate_206_0",
+  "tool": "osiris",
+  "start": 1591413879.603591,
+  "end": 1591413881.0512192,
+  "duration": 1.4476282596588135,
+  "analysis": []
+}

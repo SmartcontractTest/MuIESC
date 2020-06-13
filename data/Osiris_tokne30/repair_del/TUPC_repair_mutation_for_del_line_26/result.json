@@ -1,0 +1,44 @@
+{
+  "contract": "TUPC_repair_mutation_for_del_line_26",
+  "tool": "osiris",
+  "start": 1591333761.8886218,
+  "end": 1591333830.3609753,
+  "duration": 68.47235345840454,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "StandardToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/TUPC_repair_mutation_for_del_line_26.sol",
+      "name": "TUPC"
+    }
+  ]
+}

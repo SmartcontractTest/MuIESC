@@ -1,0 +1,30 @@
+{
+  "contract": "BAS_repair_mutation_for_inttruncate_122_0",
+  "tool": "osiris",
+  "start": 1591424552.6129532,
+  "end": 1591424654.4369414,
+  "duration": 101.82398819923401,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 122,
+          "column": 1,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_122_0.sol",
+      "name": "BitAseanToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_122_0.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_122_0.sol",
+      "name": "token"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "contract": "PKT_repair_mutation_for_inttruncate_242_0",
+  "tool": "osiris",
+  "start": 1591410639.5236478,
+  "end": 1591410663.8738108,
+  "duration": 24.350162982940674,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PKT_repair_mutation_for_inttruncate_242_0.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PKT_repair_mutation_for_inttruncate_242_0.sol",
+      "name": "Math"
+    },
+    {
+      "errors": [
+        {
+          "line": 242,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PKT_repair_mutation_for_inttruncate_242_0.sol",
+      "name": "PKT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PKT_repair_mutation_for_inttruncate_242_0.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PKT_repair_mutation_for_inttruncate_242_0.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

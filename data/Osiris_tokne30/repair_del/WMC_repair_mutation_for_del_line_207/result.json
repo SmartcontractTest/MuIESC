@@ -1,0 +1,24 @@
+{
+  "contract": "WMC_repair_mutation_for_del_line_207",
+  "tool": "osiris",
+  "start": 1591336407.275463,
+  "end": 1591336517.979683,
+  "duration": 110.70421981811523,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/WMC_repair_mutation_for_del_line_207.sol",
+      "name": "TokenERC20"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/WMC_repair_mutation_for_del_line_207.sol",
+      "name": "WMCToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/WMC_repair_mutation_for_del_line_207.sol",
+      "name": "owned"
+    }
+  ]
+}

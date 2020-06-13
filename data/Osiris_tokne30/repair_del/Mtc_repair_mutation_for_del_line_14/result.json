@@ -1,0 +1,56 @@
+{
+  "contract": "Mtc_repair_mutation_for_del_line_14",
+  "tool": "osiris",
+  "start": 1591334306.8921046,
+  "end": 1591334377.964571,
+  "duration": 71.0724663734436,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [
+        {
+          "line": 13,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "MtcToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [
+        {
+          "line": 13,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_14.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

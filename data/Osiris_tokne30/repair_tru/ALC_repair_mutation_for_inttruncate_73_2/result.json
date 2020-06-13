@@ -1,0 +1,14 @@
+{
+  "contract": "ALC_repair_mutation_for_inttruncate_73_2",
+  "tool": "osiris",
+  "start": 1591414872.181744,
+  "end": 1591414878.6066039,
+  "duration": 6.4248597621917725,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/ALC_repair_mutation_for_inttruncate_73_2.sol",
+      "name": "TVTToken"
+    }
+  ]
+}

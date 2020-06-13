@@ -1,0 +1,29 @@
+{
+  "contract": "Ammbr_no_bug_mutation_for_del_line_22",
+  "tool": "osiris",
+  "start": 1591324636.7982159,
+  "end": 1591324690.1978447,
+  "duration": 53.39962887763977,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Ammbr_no_bug_mutation_for_del_line_22.sol",
+      "name": "Ammbr"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Ammbr_no_bug_mutation_for_del_line_22.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Ammbr_no_bug_mutation_for_del_line_22.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Ammbr_no_bug_mutation_for_del_line_22.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

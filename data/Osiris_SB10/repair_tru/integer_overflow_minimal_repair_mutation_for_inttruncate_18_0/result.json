@@ -1,0 +1,20 @@
+{
+  "contract": "integer_overflow_minimal_repair_mutation_for_inttruncate_18_0",
+  "tool": "osiris",
+  "start": 1591428390.5594375,
+  "end": 1591428392.0077128,
+  "duration": 1.4482753276824951,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 18,
+          "column": 1,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/integer_overflow_minimal_repair_mutation_for_inttruncate_18_0.sol",
+      "name": "IntegerOverflowMinimal"
+    }
+  ]
+}

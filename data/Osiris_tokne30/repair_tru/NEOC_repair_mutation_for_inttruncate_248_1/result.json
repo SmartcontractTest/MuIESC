@@ -1,0 +1,24 @@
+{
+  "contract": "NEOC_repair_mutation_for_inttruncate_248_1",
+  "tool": "osiris",
+  "start": 1591412145.8523045,
+  "end": 1591412163.6002436,
+  "duration": 17.747939109802246,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NEOC_repair_mutation_for_inttruncate_248_1.sol",
+      "name": "NEOCASHToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NEOC_repair_mutation_for_inttruncate_248_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NEOC_repair_mutation_for_inttruncate_248_1.sol",
+      "name": "StdToken"
+    }
+  ]
+}

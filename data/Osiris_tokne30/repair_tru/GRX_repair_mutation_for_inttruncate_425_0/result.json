@@ -1,0 +1,19 @@
+{
+  "contract": "GRX_repair_mutation_for_inttruncate_425_0",
+  "tool": "osiris",
+  "start": 1591415095.2480617,
+  "end": 1591415147.1335793,
+  "duration": 51.885517597198486,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/GRX_repair_mutation_for_inttruncate_425_0.sol",
+      "name": "GRX"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/GRX_repair_mutation_for_inttruncate_425_0.sol",
+      "name": "owned"
+    }
+  ]
+}

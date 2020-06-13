@@ -1,0 +1,77 @@
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:BitAseanToken:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 89.7%
+INFO:symExec:	  Arithmetic bugs: 	 True
+INFO:symExec:	  └> Overflow bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:BitAseanToken:73:5
+function approveAndCall(address _spender, uint256 _value, bytes _extraData)
+^
+//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:BitAseanToken:77:13
+spender.receiveApproval(msg.sender, _value, this, _extraData)
+^
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:BitAseanToken:68:1
+allowance[msg.sender][_spender] =uint128(_value)
+^
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.2494409084 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:owned:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 98.6%
+INFO:symExec:	  Arithmetic bugs: 	 False
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 0.171458959579 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:token:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 94.7%
+INFO:symExec:	  Arithmetic bugs: 	 True
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_68_1.sol:token:68:1
+allowance[msg.sender][_spender] =uint128(_value)
+^
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.1906340122 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+
+  .oooooo.             o8o            o8o          
+ d8P'  `Y8b            `"'            `"'          
+888      888  .oooo.o oooo  oooo d8b oooo   .oooo.o
+888      888 d88(  "8 `888  `888""8P `888  d88(  "8
+888      888 `"Y88b.   888   888      888  `"Y88b. 
+`88b    d88' o.  )88b  888   888      888  o.  )88b
+ `Y8bood8P'  8""888P' o888o d888b    o888o 8""888P'
+
+
+!!! SYMBOLIC EXECUTION TIMEOUT !!!
+
+
+!!! SYMBOLIC EXECUTION TIMEOUT !!!

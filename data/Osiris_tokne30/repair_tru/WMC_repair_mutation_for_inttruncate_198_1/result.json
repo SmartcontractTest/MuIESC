@@ -1,0 +1,24 @@
+{
+  "contract": "WMC_repair_mutation_for_inttruncate_198_1",
+  "tool": "osiris",
+  "start": 1591415985.6290283,
+  "end": 1591416099.1369321,
+  "duration": 113.5079038143158,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/WMC_repair_mutation_for_inttruncate_198_1.sol",
+      "name": "TokenERC20"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/WMC_repair_mutation_for_inttruncate_198_1.sol",
+      "name": "WMCToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/WMC_repair_mutation_for_inttruncate_198_1.sol",
+      "name": "owned"
+    }
+  ]
+}

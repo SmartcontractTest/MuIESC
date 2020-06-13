@@ -1,0 +1,36 @@
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_123_2.sol:BitAseanToken:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 89.7%
+INFO:symExec:	  Arithmetic bugs: 	 False
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.1157720089 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_123_2.sol:owned:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 98.6%
+INFO:symExec:	  Arithmetic bugs: 	 False
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 0.160192012787 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BAS_repair_mutation_for_inttruncate_123_2.sol:token:
+INFO:symExec:Running, please wait...

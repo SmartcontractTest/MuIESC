@@ -1,0 +1,29 @@
+{
+  "contract": "SMT_repair_mutation_for_less_line_209",
+  "tool": "osiris",
+  "start": 1591308498.8958395,
+  "end": 1591308559.0400286,
+  "duration": 60.14418911933899,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/SMT_repair_mutation_for_less_line_209.sol",
+      "name": "Controlled"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/SMT_repair_mutation_for_less_line_209.sol",
+      "name": "Owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/SMT_repair_mutation_for_less_line_209.sol",
+      "name": "SMT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/SMT_repair_mutation_for_less_line_209.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

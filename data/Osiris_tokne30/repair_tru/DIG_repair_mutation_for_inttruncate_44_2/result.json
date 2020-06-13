@@ -1,0 +1,14 @@
+{
+  "contract": "DIG_repair_mutation_for_inttruncate_44_2",
+  "tool": "osiris",
+  "start": 1591388352.8874273,
+  "end": 1591388400.070701,
+  "duration": 47.18327355384827,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/DIG_repair_mutation_for_inttruncate_44_2.sol",
+      "name": "Dignity"
+    }
+  ]
+}

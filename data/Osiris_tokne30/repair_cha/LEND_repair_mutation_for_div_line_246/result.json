@@ -1,0 +1,35 @@
+{
+  "contract": "LEND_repair_mutation_for_div_line_246",
+  "tool": "osiris",
+  "start": 1591298102.5150115,
+  "end": 1591298159.5958467,
+  "duration": 57.08083510398865,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 245,
+          "column": 26,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 246,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/LEND_repair_mutation_for_div_line_246.sol",
+      "name": "EthLendToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/LEND_repair_mutation_for_div_line_246.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/LEND_repair_mutation_for_div_line_246.sol",
+      "name": "StdToken"
+    }
+  ]
+}

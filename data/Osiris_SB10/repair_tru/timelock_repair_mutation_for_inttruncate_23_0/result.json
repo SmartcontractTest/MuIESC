@@ -1,0 +1,20 @@
+{
+  "contract": "timelock_repair_mutation_for_inttruncate_23_0",
+  "tool": "osiris",
+  "start": 1591428344.2082293,
+  "end": 1591428346.0530088,
+  "duration": 1.8447794914245605,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 29,
+          "column": 10,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/timelock_repair_mutation_for_inttruncate_23_0.sol",
+      "name": "TimeLock"
+    }
+  ]
+}

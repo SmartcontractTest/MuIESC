@@ -1,0 +1,30 @@
+{
+  "contract": "AI_repair_mutation_for_del_line_136",
+  "tool": "osiris",
+  "start": 1591332838.0352843,
+  "end": 1591332939.8929973,
+  "duration": 101.85771298408508,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 137,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/AI_repair_mutation_for_del_line_136.sol",
+      "name": "PolyAi"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/AI_repair_mutation_for_del_line_136.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/AI_repair_mutation_for_del_line_136.sol",
+      "name": "token"
+    }
+  ]
+}

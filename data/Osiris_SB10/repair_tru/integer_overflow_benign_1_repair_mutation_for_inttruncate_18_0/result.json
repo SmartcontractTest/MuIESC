@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_benign_1_repair_mutation_for_inttruncate_18_0",
+  "tool": "osiris",
+  "start": 1591428339.8966546,
+  "end": 1591428341.4332376,
+  "duration": 1.5365829467773438,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/integer_overflow_benign_1_repair_mutation_for_inttruncate_18_0.sol",
+      "name": "IntegerOverflowBenign1"
+    }
+  ]
+}

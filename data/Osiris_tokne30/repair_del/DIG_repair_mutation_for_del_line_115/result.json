@@ -1,0 +1,20 @@
+{
+  "contract": "DIG_repair_mutation_for_del_line_115",
+  "tool": "osiris",
+  "start": 1591325994.0730693,
+  "end": 1591326042.696778,
+  "duration": 48.623708724975586,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 116,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/DIG_repair_mutation_for_del_line_115.sol",
+      "name": "Dignity"
+    }
+  ]
+}

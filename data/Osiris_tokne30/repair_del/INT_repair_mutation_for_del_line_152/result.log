@@ -1,0 +1,104 @@
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INT:
+INFO:symExec:Running, please wait...
+Exception Exception: Exception('timeout',) in <bound method FuncDeclRef.__del__ of Extract> ignored
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 85.8%
+INFO:symExec:	  Arithmetic bugs: 	 True
+INFO:symExec:	  └> Overflow bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INT:86:3
+function approveAndCall(address _spender, uint256 _value, bytes _extraData)
+^
+//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INT:153:7
+totalSupply += mintedAmount
+^
+//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INT:90:11
+spender.receiveApproval(msg.sender, _value, this, _extraData)
+^
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.3134009838 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INTToken:
+INFO:symExec:Running, please wait...
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 315, in 'calling callback function'
+
+  .oooooo.             o8o            o8o          
+ d8P'  `Y8b            `"'            `"'          
+888      888  .oooo.o oooo  oooo d8b oooo   .oooo.o
+888      888 d88(  "8 `888  `888""8P `888  d88(  "8
+888      888 `"Y88b.   888   888      888  `"Y88b. 
+`88b    d88' o.  )88b  888   888      888  o.  )88b
+ `Y8bood8P'  8""888P' o888o d888b    o888o 8""888P'
+
+  File "/root/osiris/z3/z3.py", line 137, in z3_error_handler
+    def z3_error_handler(c, e):
+  File "/root/osiris/symExec.py", line 2868, in handler
+
+!!! SYMBOLIC EXECUTION TIMEOUT !!!
+
+!!! SYMBOLIC EXECUTION TIMEOUT !!!
+    raise Exception("timeout")
+Exception: timeout
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 85.8%
+INFO:symExec:	  Arithmetic bugs: 	 True
+INFO:symExec:	  └> Overflow bugs: 	 True
+//root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:INTToken:153:7
+totalSupply += mintedAmount
+^
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.0618238449 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:owned:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 99.4%
+INFO:symExec:	  Arithmetic bugs: 	 False
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 0.248303890228 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+INFO:root:Contract //root/smartbugs/dataset/int_bugs_9/0604/repair_del/INT_repair_mutation_for_del_line_152.sol:token:
+INFO:symExec:Running, please wait...
+INFO:symExec:	============ Results ===========
+INFO:symExec:	  EVM code coverage: 	 95.5%
+INFO:symExec:	  Arithmetic bugs: 	 False
+INFO:symExec:	  └> Overflow bugs: 	 False
+INFO:symExec:	  └> Underflow bugs: 	 False
+INFO:symExec:	  └> Division bugs: 	 False
+INFO:symExec:	  └> Modulo bugs:   	 False
+INFO:symExec:	  └> Truncation bugs: 	 False
+INFO:symExec:	  └> Signedness bugs: 	 False
+INFO:symExec:	  Callstack bug: 	 False
+INFO:symExec:	  Concurrency bug: 	 False
+INFO:symExec:	  Time dependency bug: 	 False
+INFO:symExec:	  Reentrancy bug: 	 False
+INFO:symExec:	 --- 50.0768640041 seconds ---
+INFO:symExec:	====== Analysis Completed ======
+
+
+!!! SYMBOLIC EXECUTION TIMEOUT !!!

@@ -1,0 +1,29 @@
+{
+  "contract": "Ammbr_no_bug_mutation_for_inttruncate_140_2",
+  "tool": "osiris",
+  "start": 1591405431.716179,
+  "end": 1591405488.5772173,
+  "duration": 56.86103844642639,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Ammbr_no_bug_mutation_for_inttruncate_140_2.sol",
+      "name": "Ammbr"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Ammbr_no_bug_mutation_for_inttruncate_140_2.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Ammbr_no_bug_mutation_for_inttruncate_140_2.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Ammbr_no_bug_mutation_for_inttruncate_140_2.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

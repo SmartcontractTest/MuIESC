@@ -1,0 +1,30 @@
+{
+  "contract": "PYLNT_repair_mutation_for_del_line_217",
+  "tool": "osiris",
+  "start": 1591333709.5854812,
+  "end": 1591333761.8780308,
+  "duration": 52.29254961013794,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 218,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PYLNT_repair_mutation_for_del_line_217.sol",
+      "name": "PylonToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PYLNT_repair_mutation_for_del_line_217.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PYLNT_repair_mutation_for_del_line_217.sol",
+      "name": "owned"
+    }
+  ]
+}

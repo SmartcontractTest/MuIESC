@@ -1,0 +1,20 @@
+{
+  "contract": "insecure_transfer_repair_mutation_for_inttruncate_18_0",
+  "tool": "osiris",
+  "start": 1591428317.5619006,
+  "end": 1591428319.192633,
+  "duration": 1.6307322978973389,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 18,
+          "column": 1,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/insecure_transfer_repair_mutation_for_inttruncate_18_0.sol",
+      "name": "IntegerOverflowAdd"
+    }
+  ]
+}

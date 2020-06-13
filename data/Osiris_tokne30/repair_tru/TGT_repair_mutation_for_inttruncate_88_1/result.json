@@ -1,0 +1,35 @@
+{
+  "contract": "TGT_repair_mutation_for_inttruncate_88_1",
+  "tool": "osiris",
+  "start": 1591421899.743371,
+  "end": 1591422001.5526028,
+  "duration": 101.80923175811768,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 71,
+          "column": 5,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 75,
+          "column": 13,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TGT_repair_mutation_for_inttruncate_88_1.sol",
+      "name": "MyAdvancedToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TGT_repair_mutation_for_inttruncate_88_1.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TGT_repair_mutation_for_inttruncate_88_1.sol",
+      "name": "token"
+    }
+  ]
+}

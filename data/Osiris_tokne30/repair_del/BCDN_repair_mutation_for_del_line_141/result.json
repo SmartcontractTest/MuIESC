@@ -1,0 +1,14 @@
+{
+  "contract": "BCDN_repair_mutation_for_del_line_141",
+  "tool": "osiris",
+  "start": 1591320010.766594,
+  "end": 1591320062.1256843,
+  "duration": 51.35909032821655,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/BCDN_repair_mutation_for_del_line_141.sol",
+      "name": "blockcdn"
+    }
+  ]
+}

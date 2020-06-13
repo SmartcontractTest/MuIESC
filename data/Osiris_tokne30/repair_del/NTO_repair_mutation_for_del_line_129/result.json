@@ -1,0 +1,30 @@
+{
+  "contract": "NTO_repair_mutation_for_del_line_129",
+  "tool": "osiris",
+  "start": 1591336533.2445068,
+  "end": 1591336635.1457894,
+  "duration": 101.90128254890442,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 132,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NTO_repair_mutation_for_del_line_129.sol",
+      "name": "FujintoToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NTO_repair_mutation_for_del_line_129.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NTO_repair_mutation_for_del_line_129.sol",
+      "name": "token"
+    }
+  ]
+}

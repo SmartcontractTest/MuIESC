@@ -1,0 +1,24 @@
+{
+  "contract": "NEOC_repair_mutation_for_del_line_259",
+  "tool": "osiris",
+  "start": 1591325658.7481387,
+  "end": 1591325675.1029215,
+  "duration": 16.354782819747925,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NEOC_repair_mutation_for_del_line_259.sol",
+      "name": "NEOCASHToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NEOC_repair_mutation_for_del_line_259.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/NEOC_repair_mutation_for_del_line_259.sol",
+      "name": "StdToken"
+    }
+  ]
+}

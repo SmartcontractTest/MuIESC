@@ -1,0 +1,20 @@
+{
+  "contract": "PJETH_repair_mutation_for_inttruncate_98_2",
+  "tool": "osiris",
+  "start": 1591418164.5530014,
+  "end": 1591418215.998373,
+  "duration": 51.44537162780762,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/PJETH_repair_mutation_for_inttruncate_98_2.sol",
+      "name": "Pajeether"
+    }
+  ]
+}

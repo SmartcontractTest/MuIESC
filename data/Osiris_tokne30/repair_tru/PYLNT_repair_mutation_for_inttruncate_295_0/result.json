@@ -1,0 +1,8 @@
+{
+  "contract": "PYLNT_repair_mutation_for_inttruncate_295_0",
+  "tool": "osiris",
+  "start": 1591414757.237525,
+  "end": 1591414758.950179,
+  "duration": 1.7126541137695312,
+  "analysis": []
+}

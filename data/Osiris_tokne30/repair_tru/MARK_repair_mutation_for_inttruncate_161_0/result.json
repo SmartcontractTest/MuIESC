@@ -1,0 +1,25 @@
+{
+  "contract": "MARK_repair_mutation_for_inttruncate_161_0",
+  "tool": "osiris",
+  "start": 1591414167.0024722,
+  "end": 1591414219.0053947,
+  "duration": 52.00292253494263,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 161,
+          "column": 1,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MARK_repair_mutation_for_inttruncate_161_0.sol",
+      "name": "MyToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MARK_repair_mutation_for_inttruncate_161_0.sol",
+      "name": "owned"
+    }
+  ]
+}

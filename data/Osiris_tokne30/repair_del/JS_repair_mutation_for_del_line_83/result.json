@@ -1,0 +1,20 @@
+{
+  "contract": "JS_repair_mutation_for_del_line_83",
+  "tool": "osiris",
+  "start": 1591330358.6318345,
+  "end": 1591330410.4213529,
+  "duration": 51.78951835632324,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 84,
+          "column": 14,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/JS_repair_mutation_for_del_line_83.sol",
+      "name": "JavaScriptToken"
+    }
+  ]
+}

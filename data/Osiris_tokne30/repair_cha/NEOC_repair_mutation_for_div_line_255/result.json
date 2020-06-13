@@ -1,0 +1,35 @@
+{
+  "contract": "NEOC_repair_mutation_for_div_line_255",
+  "tool": "osiris",
+  "start": 1591302696.5053847,
+  "end": 1591302750.725593,
+  "duration": 54.220208406448364,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 254,
+          "column": 26,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 255,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_div_line_255.sol",
+      "name": "NEOCASHToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_div_line_255.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_div_line_255.sol",
+      "name": "StdToken"
+    }
+  ]
+}

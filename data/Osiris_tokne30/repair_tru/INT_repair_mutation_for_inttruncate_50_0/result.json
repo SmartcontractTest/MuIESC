@@ -1,0 +1,40 @@
+{
+  "contract": "INT_repair_mutation_for_inttruncate_50_0",
+  "tool": "osiris",
+  "start": 1591419030.6199915,
+  "end": 1591419182.9629607,
+  "duration": 152.34296917915344,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_50_0.sol",
+      "name": "INT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_50_0.sol",
+      "name": "INTToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_50_0.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 50,
+          "column": 1,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 50,
+          "column": 1,
+          "message": "truncation_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/INT_repair_mutation_for_inttruncate_50_0.sol",
+      "name": "token"
+    }
+  ]
+}

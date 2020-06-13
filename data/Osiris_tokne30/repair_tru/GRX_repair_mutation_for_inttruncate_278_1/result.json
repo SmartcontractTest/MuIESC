@@ -1,0 +1,25 @@
+{
+  "contract": "GRX_repair_mutation_for_inttruncate_278_1",
+  "tool": "osiris",
+  "start": 1591402100.4587917,
+  "end": 1591402160.0635111,
+  "duration": 59.604719400405884,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 285,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/GRX_repair_mutation_for_inttruncate_278_1.sol",
+      "name": "GRX"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/GRX_repair_mutation_for_inttruncate_278_1.sol",
+      "name": "owned"
+    }
+  ]
+}

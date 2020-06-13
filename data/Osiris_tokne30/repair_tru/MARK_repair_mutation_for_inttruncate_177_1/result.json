@@ -1,0 +1,14 @@
+{
+  "contract": "MARK_repair_mutation_for_inttruncate_177_1",
+  "tool": "osiris",
+  "start": 1591387546.507973,
+  "end": 1591387597.7398326,
+  "duration": 51.23185968399048,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MARK_repair_mutation_for_inttruncate_177_1.sol",
+      "name": "MyToken"
+    }
+  ]
+}

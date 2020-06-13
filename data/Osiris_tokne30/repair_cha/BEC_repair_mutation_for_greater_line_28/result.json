@@ -1,0 +1,44 @@
+{
+  "contract": "BEC_repair_mutation_for_greater_line_28",
+  "tool": "osiris",
+  "start": 1591296697.8762548,
+  "end": 1591296768.6399522,
+  "duration": 70.76369738578796,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "BecToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BEC_repair_mutation_for_greater_line_28.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

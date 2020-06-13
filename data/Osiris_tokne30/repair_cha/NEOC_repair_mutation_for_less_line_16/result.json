@@ -1,0 +1,24 @@
+{
+  "contract": "NEOC_repair_mutation_for_less_line_16",
+  "tool": "osiris",
+  "start": 1591307994.9935842,
+  "end": 1591308009.7617218,
+  "duration": 14.768137693405151,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_less_line_16.sol",
+      "name": "NEOCASHToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_less_line_16.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NEOC_repair_mutation_for_less_line_16.sol",
+      "name": "StdToken"
+    }
+  ]
+}

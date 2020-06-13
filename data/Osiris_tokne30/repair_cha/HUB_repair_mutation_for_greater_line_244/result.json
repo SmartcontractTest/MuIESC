@@ -1,0 +1,24 @@
+{
+  "contract": "HUB_repair_mutation_for_greater_line_244",
+  "tool": "osiris",
+  "start": 1591298272.9861255,
+  "end": 1591298288.0161414,
+  "duration": 15.03001594543457,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_greater_line_244.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_greater_line_244.sol",
+      "name": "StdToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_greater_line_244.sol",
+      "name": "UHubToken"
+    }
+  ]
+}

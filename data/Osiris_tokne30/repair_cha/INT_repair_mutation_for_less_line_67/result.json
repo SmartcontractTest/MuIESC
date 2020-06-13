@@ -1,0 +1,47 @@
+{
+  "contract": "INT_repair_mutation_for_less_line_67",
+  "tool": "osiris",
+  "start": 1591312401.2882247,
+  "end": 1591312553.2081356,
+  "duration": 151.91991090774536,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 68,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/INT_repair_mutation_for_less_line_67.sol",
+      "name": "INT"
+    },
+    {
+      "errors": [
+        {
+          "line": 68,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/INT_repair_mutation_for_less_line_67.sol",
+      "name": "INTToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/INT_repair_mutation_for_less_line_67.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 68,
+          "column": 7,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/INT_repair_mutation_for_less_line_67.sol",
+      "name": "token"
+    }
+  ]
+}

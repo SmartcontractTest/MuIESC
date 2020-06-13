@@ -1,0 +1,14 @@
+{
+  "contract": "DIG_repair_mutation_for_del_line_96",
+  "tool": "osiris",
+  "start": 1591330936.0206149,
+  "end": 1591330983.2710488,
+  "duration": 47.250433921813965,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/DIG_repair_mutation_for_del_line_96.sol",
+      "name": "Dignity"
+    }
+  ]
+}

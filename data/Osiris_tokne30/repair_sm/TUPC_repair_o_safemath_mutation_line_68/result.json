@@ -1,0 +1,62 @@
+{
+  "contract": "TUPC_repair_o_safemath_mutation_line_68",
+  "tool": "osiris",
+  "start": 1591357856.882592,
+  "end": 1591357933.762313,
+  "duration": 76.87972092628479,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 69,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [
+        {
+          "line": 69,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [
+        {
+          "line": 69,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "StandardToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/TUPC_repair_o_safemath_mutation_line_68.sol",
+      "name": "TUPC"
+    }
+  ]
+}

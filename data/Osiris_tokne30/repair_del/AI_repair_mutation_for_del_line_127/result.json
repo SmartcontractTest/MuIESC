@@ -1,0 +1,14 @@
+{
+  "contract": "AI_repair_mutation_for_del_line_127",
+  "tool": "osiris",
+  "start": 1591334153.437995,
+  "end": 1591334204.845804,
+  "duration": 51.407809019088745,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/AI_repair_mutation_for_del_line_127.sol",
+      "name": "PolyAi"
+    }
+  ]
+}

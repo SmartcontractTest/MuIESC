@@ -1,0 +1,35 @@
+{
+  "contract": "HUB_repair_mutation_for_div_line_257",
+  "tool": "osiris",
+  "start": 1591303493.9052844,
+  "end": 1591303532.797874,
+  "duration": 38.8925895690918,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_div_line_257.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_div_line_257.sol",
+      "name": "StdToken"
+    },
+    {
+      "errors": [
+        {
+          "line": 257,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 256,
+          "column": 26,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/HUB_repair_mutation_for_div_line_257.sol",
+      "name": "UHubToken"
+    }
+  ]
+}

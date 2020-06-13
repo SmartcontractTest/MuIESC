@@ -1,0 +1,24 @@
+{
+  "contract": "PYLNT_repair_o_safemath_mutation_line_305",
+  "tool": "osiris",
+  "start": 1591357751.9341552,
+  "end": 1591357804.1914005,
+  "duration": 52.25724530220032,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PYLNT_repair_o_safemath_mutation_line_305.sol",
+      "name": "PylonToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PYLNT_repair_o_safemath_mutation_line_305.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PYLNT_repair_o_safemath_mutation_line_305.sol",
+      "name": "owned"
+    }
+  ]
+}

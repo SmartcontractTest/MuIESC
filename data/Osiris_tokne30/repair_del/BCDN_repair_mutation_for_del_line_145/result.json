@@ -1,0 +1,40 @@
+{
+  "contract": "BCDN_repair_mutation_for_del_line_145",
+  "tool": "osiris",
+  "start": 1591330080.5691938,
+  "end": 1591330132.0135033,
+  "duration": 51.44430947303772,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 173,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 111,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 196,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 106,
+          "column": 9,
+          "message": "time_dependency_bug"
+        },
+        {
+          "line": 192,
+          "column": 9,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/BCDN_repair_mutation_for_del_line_145.sol",
+      "name": "blockcdn"
+    }
+  ]
+}

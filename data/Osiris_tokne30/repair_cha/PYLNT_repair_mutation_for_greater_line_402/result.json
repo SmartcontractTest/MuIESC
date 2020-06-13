@@ -1,0 +1,24 @@
+{
+  "contract": "PYLNT_repair_mutation_for_greater_line_402",
+  "tool": "osiris",
+  "start": 1591299275.9577663,
+  "end": 1591299328.374738,
+  "duration": 52.4169716835022,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/PYLNT_repair_mutation_for_greater_line_402.sol",
+      "name": "PylonToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/PYLNT_repair_mutation_for_greater_line_402.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/PYLNT_repair_mutation_for_greater_line_402.sol",
+      "name": "owned"
+    }
+  ]
+}

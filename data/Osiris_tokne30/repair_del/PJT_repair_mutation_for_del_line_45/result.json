@@ -1,0 +1,25 @@
+{
+  "contract": "PJT_repair_mutation_for_del_line_45",
+  "tool": "osiris",
+  "start": 1591330410.4308221,
+  "end": 1591330461.635773,
+  "duration": 51.20495080947876,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 46,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PJT_repair_mutation_for_del_line_45.sol",
+      "name": "PajeetConnect"
+    }
+  ]
+}

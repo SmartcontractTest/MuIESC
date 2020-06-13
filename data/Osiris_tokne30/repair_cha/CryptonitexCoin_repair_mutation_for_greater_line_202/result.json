@@ -1,0 +1,51 @@
+{
+  "contract": "CryptonitexCoin_repair_mutation_for_greater_line_202",
+  "tool": "osiris",
+  "start": 1591295916.3367748,
+  "end": 1591296019.111948,
+  "duration": 102.77517318725586,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 138,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 133,
+          "column": 5,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 172,
+          "column": 9,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 206,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/CryptonitexCoin_repair_mutation_for_greater_line_202.sol",
+      "name": "CryptonitexCoin"
+    },
+    {
+      "errors": [
+        {
+          "line": 172,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/CryptonitexCoin_repair_mutation_for_greater_line_202.sol",
+      "name": "TokenERC20"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/CryptonitexCoin_repair_mutation_for_greater_line_202.sol",
+      "name": "owned"
+    }
+  ]
+}

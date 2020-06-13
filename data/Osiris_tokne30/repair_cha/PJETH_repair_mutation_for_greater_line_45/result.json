@@ -1,0 +1,25 @@
+{
+  "contract": "PJETH_repair_mutation_for_greater_line_45",
+  "tool": "osiris",
+  "start": 1591313789.8612313,
+  "end": 1591313814.2721896,
+  "duration": 24.410958290100098,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 46,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/PJETH_repair_mutation_for_greater_line_45.sol",
+      "name": "Pajeether"
+    }
+  ]
+}

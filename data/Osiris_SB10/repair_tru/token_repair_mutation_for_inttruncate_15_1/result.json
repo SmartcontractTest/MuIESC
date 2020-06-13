@@ -1,0 +1,8 @@
+{
+  "contract": "token_repair_mutation_for_inttruncate_15_1",
+  "tool": "osiris",
+  "start": 1591428346.0646489,
+  "end": 1591428347.1272514,
+  "duration": 1.0626025199890137,
+  "analysis": []
+}

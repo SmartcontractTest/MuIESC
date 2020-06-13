@@ -1,0 +1,8 @@
+{
+  "contract": "SWFTC_repair_mutation_for_inttruncate_160_1",
+  "tool": "osiris",
+  "start": 1591418905.2626195,
+  "end": 1591418906.4346836,
+  "duration": 1.1720640659332275,
+  "analysis": []
+}

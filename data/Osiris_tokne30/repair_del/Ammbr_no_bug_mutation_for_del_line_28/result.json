@@ -1,0 +1,14 @@
+{
+  "contract": "Ammbr_no_bug_mutation_for_del_line_28",
+  "tool": "osiris",
+  "start": 1591337124.7460039,
+  "end": 1591337176.2514737,
+  "duration": 51.50546979904175,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Ammbr_no_bug_mutation_for_del_line_28.sol",
+      "name": "Ammbr"
+    }
+  ]
+}

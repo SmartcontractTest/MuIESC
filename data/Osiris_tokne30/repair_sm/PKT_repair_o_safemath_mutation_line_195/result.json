@@ -1,0 +1,34 @@
+{
+  "contract": "PKT_repair_o_safemath_mutation_line_195",
+  "tool": "osiris",
+  "start": 1591357045.0974872,
+  "end": 1591357051.3880606,
+  "duration": 6.290573358535767,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PKT_repair_o_safemath_mutation_line_195.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PKT_repair_o_safemath_mutation_line_195.sol",
+      "name": "Math"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PKT_repair_o_safemath_mutation_line_195.sol",
+      "name": "PKT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PKT_repair_o_safemath_mutation_line_195.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/PKT_repair_o_safemath_mutation_line_195.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

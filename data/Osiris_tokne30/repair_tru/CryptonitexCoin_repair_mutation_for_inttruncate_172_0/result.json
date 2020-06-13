@@ -1,0 +1,25 @@
+{
+  "contract": "CryptonitexCoin_repair_mutation_for_inttruncate_172_0",
+  "tool": "osiris",
+  "start": 1591396323.0076263,
+  "end": 1591396374.6559572,
+  "duration": 51.64833092689514,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 172,
+          "column": 1,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_172_0.sol",
+      "name": "CryptonitexCoin"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_172_0.sol",
+      "name": "TokenERC20"
+    }
+  ]
+}

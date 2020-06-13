@@ -1,0 +1,24 @@
+{
+  "contract": "LEND_repair_mutation_for_del_line_252",
+  "tool": "osiris",
+  "start": 1591320886.1603591,
+  "end": 1591320905.1029654,
+  "duration": 18.942606210708618,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/LEND_repair_mutation_for_del_line_252.sol",
+      "name": "EthLendToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/LEND_repair_mutation_for_del_line_252.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/LEND_repair_mutation_for_del_line_252.sol",
+      "name": "StdToken"
+    }
+  ]
+}

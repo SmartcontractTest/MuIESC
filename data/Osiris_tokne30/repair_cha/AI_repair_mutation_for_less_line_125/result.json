@@ -1,0 +1,30 @@
+{
+  "contract": "AI_repair_mutation_for_less_line_125",
+  "tool": "osiris",
+  "start": 1591297676.9486923,
+  "end": 1591297778.8196993,
+  "duration": 101.8710069656372,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 128,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/AI_repair_mutation_for_less_line_125.sol",
+      "name": "PolyAi"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/AI_repair_mutation_for_less_line_125.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/AI_repair_mutation_for_less_line_125.sol",
+      "name": "token"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "contract": "tokensalechallenge_repair_mutation_for_inttruncate_31_1",
+  "tool": "osiris",
+  "start": 1591428348.8524256,
+  "end": 1591428356.642485,
+  "duration": 7.790059328079224,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 33,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/tokensalechallenge_repair_mutation_for_inttruncate_31_1.sol",
+      "name": "TokenSaleChallenge"
+    }
+  ]
+}

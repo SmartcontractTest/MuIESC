@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_1_repair_mutation_for_inttruncate_14_0",
+  "tool": "osiris",
+  "start": 1591428341.444515,
+  "end": 1591428342.779787,
+  "duration": 1.3352720737457275,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/integer_overflow_1_repair_mutation_for_inttruncate_14_0.sol",
+      "name": "Overflow"
+    }
+  ]
+}

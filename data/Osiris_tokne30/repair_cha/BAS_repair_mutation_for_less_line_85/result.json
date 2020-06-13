@@ -1,0 +1,30 @@
+{
+  "contract": "BAS_repair_mutation_for_less_line_85",
+  "tool": "osiris",
+  "start": 1591298842.0523205,
+  "end": 1591298943.8507164,
+  "duration": 101.79839587211609,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BAS_repair_mutation_for_less_line_85.sol",
+      "name": "BitAseanToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BAS_repair_mutation_for_less_line_85.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 88,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BAS_repair_mutation_for_less_line_85.sol",
+      "name": "token"
+    }
+  ]
+}

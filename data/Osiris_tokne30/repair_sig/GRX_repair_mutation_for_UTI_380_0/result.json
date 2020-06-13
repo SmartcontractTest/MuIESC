@@ -1,0 +1,19 @@
+{
+  "contract": "GRX_repair_mutation_for_UTI_380_0",
+  "tool": "osiris",
+  "start": 1591436707.2260902,
+  "end": 1591436759.2894633,
+  "duration": 52.06337308883667,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/GRX_repair_mutation_for_UTI_380_0.sol",
+      "name": "GRX"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/GRX_repair_mutation_for_UTI_380_0.sol",
+      "name": "owned"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "contract": "Ammbr_no_bug_o_safemath_mutation_line_92",
+  "tool": "osiris",
+  "start": 1591356758.9320433,
+  "end": 1591356812.7655408,
+  "duration": 53.833497524261475,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Ammbr_no_bug_o_safemath_mutation_line_92.sol",
+      "name": "Ammbr"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Ammbr_no_bug_o_safemath_mutation_line_92.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Ammbr_no_bug_o_safemath_mutation_line_92.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [
+        {
+          "line": 93,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/Ammbr_no_bug_o_safemath_mutation_line_92.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "contract": "WMC_repair_mutation_for_greater_line_178",
+  "tool": "osiris",
+  "start": 1591307363.4677181,
+  "end": 1591307473.708551,
+  "duration": 110.24083280563354,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/WMC_repair_mutation_for_greater_line_178.sol",
+      "name": "TokenERC20"
+    },
+    {
+      "errors": [
+        {
+          "line": 182,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/WMC_repair_mutation_for_greater_line_178.sol",
+      "name": "WMCToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/WMC_repair_mutation_for_greater_line_178.sol",
+      "name": "owned"
+    }
+  ]
+}

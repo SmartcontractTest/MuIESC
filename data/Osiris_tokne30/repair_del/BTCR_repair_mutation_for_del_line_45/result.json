@@ -1,0 +1,25 @@
+{
+  "contract": "BTCR_repair_mutation_for_del_line_45",
+  "tool": "osiris",
+  "start": 1591324330.8274288,
+  "end": 1591324381.9797826,
+  "duration": 51.15235376358032,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 46,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/BTCR_repair_mutation_for_del_line_45.sol",
+      "name": "BitcoinRed"
+    }
+  ]
+}

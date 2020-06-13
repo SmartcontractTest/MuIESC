@@ -1,0 +1,20 @@
+{
+  "contract": "PJT_repair_mutation_for_greater_line_47",
+  "tool": "osiris",
+  "start": 1591302285.6089091,
+  "end": 1591302336.9025607,
+  "duration": 51.29365158081055,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 48,
+          "column": 14,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/PJT_repair_mutation_for_greater_line_47.sol",
+      "name": "PajeetConnect"
+    }
+  ]
+}

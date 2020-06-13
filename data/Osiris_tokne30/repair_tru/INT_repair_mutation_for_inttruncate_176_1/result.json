@@ -1,0 +1,8 @@
+{
+  "contract": "INT_repair_mutation_for_inttruncate_176_1",
+  "tool": "osiris",
+  "start": 1591401381.0063355,
+  "end": 1591401382.2817495,
+  "duration": 1.275413990020752,
+  "analysis": []
+}

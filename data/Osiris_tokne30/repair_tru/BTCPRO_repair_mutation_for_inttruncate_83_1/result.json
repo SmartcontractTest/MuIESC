@@ -1,0 +1,25 @@
+{
+  "contract": "BTCPRO_repair_mutation_for_inttruncate_83_1",
+  "tool": "osiris",
+  "start": 1591397105.958357,
+  "end": 1591397157.1426976,
+  "duration": 51.184340476989746,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 87,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BTCPRO_repair_mutation_for_inttruncate_83_1.sol",
+      "name": "Bitcoinpro"
+    }
+  ]
+}

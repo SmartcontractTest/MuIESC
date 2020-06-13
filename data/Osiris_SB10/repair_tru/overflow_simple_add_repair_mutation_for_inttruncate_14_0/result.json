@@ -1,0 +1,20 @@
+{
+  "contract": "overflow_simple_add_repair_mutation_for_inttruncate_14_0",
+  "tool": "osiris",
+  "start": 1591428392.0174053,
+  "end": 1591428393.5144403,
+  "duration": 1.497035026550293,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 14,
+          "column": 1,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/overflow_simple_add_repair_mutation_for_inttruncate_14_0.sol",
+      "name": "Overflow_Add"
+    }
+  ]
+}

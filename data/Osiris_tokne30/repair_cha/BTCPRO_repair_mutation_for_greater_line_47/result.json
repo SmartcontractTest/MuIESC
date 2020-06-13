@@ -1,0 +1,20 @@
+{
+  "contract": "BTCPRO_repair_mutation_for_greater_line_47",
+  "tool": "osiris",
+  "start": 1591307729.1293755,
+  "end": 1591307780.480452,
+  "duration": 51.35107660293579,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 48,
+          "column": 14,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BTCPRO_repair_mutation_for_greater_line_47.sol",
+      "name": "Bitcoinpro"
+    }
+  ]
+}

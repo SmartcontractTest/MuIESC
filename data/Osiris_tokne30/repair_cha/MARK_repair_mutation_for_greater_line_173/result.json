@@ -1,0 +1,25 @@
+{
+  "contract": "MARK_repair_mutation_for_greater_line_173",
+  "tool": "osiris",
+  "start": 1591305098.254766,
+  "end": 1591305149.829055,
+  "duration": 51.574289083480835,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 174,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/MARK_repair_mutation_for_greater_line_173.sol",
+      "name": "MyToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/MARK_repair_mutation_for_greater_line_173.sol",
+      "name": "owned"
+    }
+  ]
+}

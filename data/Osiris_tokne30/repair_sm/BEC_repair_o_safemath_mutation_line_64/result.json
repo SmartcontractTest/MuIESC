@@ -1,0 +1,62 @@
+{
+  "contract": "BEC_repair_o_safemath_mutation_line_64",
+  "tool": "osiris",
+  "start": 1591358537.740757,
+  "end": 1591358610.9306803,
+  "duration": 73.18992328643799,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 65,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "BecToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [
+        {
+          "line": 65,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [
+        {
+          "line": 65,
+          "column": 17,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_sm/BEC_repair_o_safemath_mutation_line_64.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

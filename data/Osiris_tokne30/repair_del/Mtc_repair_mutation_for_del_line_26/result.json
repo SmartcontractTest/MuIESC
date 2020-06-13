@@ -1,0 +1,44 @@
+{
+  "contract": "Mtc_repair_mutation_for_del_line_26",
+  "tool": "osiris",
+  "start": 1591331595.5583456,
+  "end": 1591331665.743035,
+  "duration": 70.18468952178955,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "MtcToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/Mtc_repair_mutation_for_del_line_26.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "contract": "NEOC_repair_mutation_for_inttruncate_255_1",
+  "tool": "osiris",
+  "start": 1591423159.638123,
+  "end": 1591423160.9076025,
+  "duration": 1.269479513168335,
+  "analysis": []
+}

@@ -1,0 +1,8 @@
+{
+  "contract": "TGT_repair_mutation_for_inttruncate_160_1",
+  "tool": "osiris",
+  "start": 1591387217.943964,
+  "end": 1591387219.0557976,
+  "duration": 1.1118335723876953,
+  "analysis": []
+}

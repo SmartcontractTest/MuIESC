@@ -1,0 +1,19 @@
+{
+  "contract": "GRX_repair_mutation_for_del_line_352",
+  "tool": "osiris",
+  "start": 1591333830.3731017,
+  "end": 1591333882.4851394,
+  "duration": 52.112037658691406,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/GRX_repair_mutation_for_del_line_352.sol",
+      "name": "GRX"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/GRX_repair_mutation_for_del_line_352.sol",
+      "name": "owned"
+    }
+  ]
+}

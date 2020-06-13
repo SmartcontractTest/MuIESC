@@ -1,0 +1,44 @@
+{
+  "contract": "TUPC_repair_mutation_for_inttruncate_269_2",
+  "tool": "osiris",
+  "start": 1591409463.8452435,
+  "end": 1591409531.844969,
+  "duration": 67.99972558021545,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "StandardToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/TUPC_repair_mutation_for_inttruncate_269_2.sol",
+      "name": "TUPC"
+    }
+  ]
+}

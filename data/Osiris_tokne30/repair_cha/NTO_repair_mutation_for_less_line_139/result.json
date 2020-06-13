@@ -1,0 +1,30 @@
+{
+  "contract": "NTO_repair_mutation_for_less_line_139",
+  "tool": "osiris",
+  "start": 1591304401.3189673,
+  "end": 1591304503.1684437,
+  "duration": 101.84947633743286,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 140,
+          "column": 9,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NTO_repair_mutation_for_less_line_139.sol",
+      "name": "FujintoToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NTO_repair_mutation_for_less_line_139.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/NTO_repair_mutation_for_less_line_139.sol",
+      "name": "token"
+    }
+  ]
+}

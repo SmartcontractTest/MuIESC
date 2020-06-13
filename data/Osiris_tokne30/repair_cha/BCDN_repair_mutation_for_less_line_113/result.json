@@ -1,0 +1,45 @@
+{
+  "contract": "BCDN_repair_mutation_for_less_line_113",
+  "tool": "osiris",
+  "start": 1591298790.4488466,
+  "end": 1591298842.039667,
+  "duration": 51.5908203125,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 173,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 114,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 111,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 196,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 106,
+          "column": 9,
+          "message": "time_dependency_bug"
+        },
+        {
+          "line": 192,
+          "column": 9,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/BCDN_repair_mutation_for_less_line_113.sol",
+      "name": "blockcdn"
+    }
+  ]
+}

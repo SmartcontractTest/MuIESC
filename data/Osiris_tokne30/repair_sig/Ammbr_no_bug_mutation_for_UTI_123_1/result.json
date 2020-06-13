@@ -1,0 +1,8 @@
+{
+  "contract": "Ammbr_no_bug_mutation_for_UTI_123_1",
+  "tool": "osiris",
+  "start": 1591436591.8976972,
+  "end": 1591436593.1517465,
+  "duration": 1.254049301147461,
+  "analysis": []
+}

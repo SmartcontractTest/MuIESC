@@ -1,0 +1,44 @@
+{
+  "contract": "Mtc_repair_mutation_for_greater_line_32",
+  "tool": "osiris",
+  "start": 1591306731.0579357,
+  "end": 1591306802.672768,
+  "duration": 71.61483240127563,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "MtcToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_cha/Mtc_repair_mutation_for_greater_line_32.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

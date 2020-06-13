@@ -1,0 +1,35 @@
+{
+  "contract": "LGO_repair_mutation_for_greater_line_199",
+  "tool": "osiris",
+  "start": 1591348262.132855,
+  "end": 1591348343.6687047,
+  "duration": 81.5358498096466,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/test/LGO_repair_mutation_for_greater_line_199.sol",
+      "name": "EIP20"
+    },
+    {
+      "errors": [
+        {
+          "line": 342,
+          "column": 31,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/test/LGO_repair_mutation_for_greater_line_199.sol",
+      "name": "Legolas"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/test/LGO_repair_mutation_for_greater_line_199.sol",
+      "name": "LegolasBase"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/test/LGO_repair_mutation_for_greater_line_199.sol",
+      "name": "Ownable"
+    }
+  ]
+}

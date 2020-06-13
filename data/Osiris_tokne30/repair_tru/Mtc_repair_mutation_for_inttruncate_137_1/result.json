@@ -1,0 +1,44 @@
+{
+  "contract": "Mtc_repair_mutation_for_inttruncate_137_1",
+  "tool": "osiris",
+  "start": 1591386330.2957585,
+  "end": 1591386401.110909,
+  "duration": 70.81515049934387,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "MtcToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/Mtc_repair_mutation_for_inttruncate_137_1.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

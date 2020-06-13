@@ -1,0 +1,20 @@
+{
+  "contract": "JS_repair_mutation_for_inttruncate_121_0",
+  "tool": "osiris",
+  "start": 1591415675.0171754,
+  "end": 1591415726.494222,
+  "duration": 51.477046489715576,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 121,
+          "column": 1,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/JS_repair_mutation_for_inttruncate_121_0.sol",
+      "name": "JavaScriptToken"
+    }
+  ]
+}

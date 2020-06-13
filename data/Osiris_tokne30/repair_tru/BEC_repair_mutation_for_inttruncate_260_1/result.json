@@ -1,0 +1,44 @@
+{
+  "contract": "BEC_repair_mutation_for_inttruncate_260_1",
+  "tool": "osiris",
+  "start": 1591406629.451694,
+  "end": 1591406703.0750558,
+  "duration": 73.623361825943,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "BecToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "Ownable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "Pausable"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "PausableToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BEC_repair_mutation_for_inttruncate_260_1.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

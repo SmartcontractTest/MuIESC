@@ -1,0 +1,40 @@
+{
+  "contract": "PKT_repair_mutation_for_del_line_244",
+  "tool": "osiris",
+  "start": 1591321515.8826404,
+  "end": 1591321527.1092458,
+  "duration": 11.226605415344238,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_244.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_244.sol",
+      "name": "Math"
+    },
+    {
+      "errors": [
+        {
+          "line": 245,
+          "column": 5,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_244.sol",
+      "name": "PKT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_244.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_244.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

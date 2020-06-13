@@ -1,0 +1,52 @@
+{
+  "contract": "PKT_repair_mutation_for_del_line_49",
+  "tool": "osiris",
+  "start": 1591338050.794028,
+  "end": 1591338057.7889366,
+  "duration": 6.994908571243286,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 50,
+          "column": 12,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_49.sol",
+      "name": "BasicToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_49.sol",
+      "name": "Math"
+    },
+    {
+      "errors": [
+        {
+          "line": 50,
+          "column": 12,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_49.sol",
+      "name": "PKT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_49.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [
+        {
+          "line": 50,
+          "column": 12,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PKT_repair_mutation_for_del_line_49.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

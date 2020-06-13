@@ -1,0 +1,14 @@
+{
+  "contract": "integer_overflow_mul_repair_mutation_for_inttruncate_17_2",
+  "tool": "osiris",
+  "start": 1591428373.8106923,
+  "end": 1591428390.5499687,
+  "duration": 16.73927640914917,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/integer_overflow_mul_repair_mutation_for_inttruncate_17_2.sol",
+      "name": "IntegerOverflowMul"
+    }
+  ]
+}

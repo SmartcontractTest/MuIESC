@@ -1,0 +1,24 @@
+{
+  "contract": "AI_repair_mutation_for_inttruncate_87_1",
+  "tool": "osiris",
+  "start": 1591381547.8351731,
+  "end": 1591381649.5980835,
+  "duration": 101.76291036605835,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/AI_repair_mutation_for_inttruncate_87_1.sol",
+      "name": "PolyAi"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/AI_repair_mutation_for_inttruncate_87_1.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/AI_repair_mutation_for_inttruncate_87_1.sol",
+      "name": "token"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "contract": "MESH_repair_mutation_for_inttruncate_143_0",
+  "tool": "osiris",
+  "start": 1591388938.41584,
+  "end": 1591389077.7862508,
+  "duration": 139.37041091918945,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MESH_repair_mutation_for_inttruncate_143_0.sol",
+      "name": "Controlled"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MESH_repair_mutation_for_inttruncate_143_0.sol",
+      "name": "MESH"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MESH_repair_mutation_for_inttruncate_143_0.sol",
+      "name": "Owned"
+    },
+    {
+      "errors": [
+        {
+          "line": 143,
+          "column": 1,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/MESH_repair_mutation_for_inttruncate_143_0.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

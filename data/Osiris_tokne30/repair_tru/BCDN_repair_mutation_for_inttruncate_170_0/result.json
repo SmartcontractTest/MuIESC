@@ -1,0 +1,45 @@
+{
+  "contract": "BCDN_repair_mutation_for_inttruncate_170_0",
+  "tool": "osiris",
+  "start": 1591385860.553656,
+  "end": 1591385911.9490106,
+  "duration": 51.39535450935364,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 170,
+          "column": 1,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 173,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 111,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 196,
+          "column": 13,
+          "message": "concurrency_bug"
+        },
+        {
+          "line": 106,
+          "column": 9,
+          "message": "time_dependency_bug"
+        },
+        {
+          "line": 192,
+          "column": 9,
+          "message": "time_dependency_bug"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BCDN_repair_mutation_for_inttruncate_170_0.sol",
+      "name": "blockcdn"
+    }
+  ]
+}

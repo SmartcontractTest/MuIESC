@@ -1,0 +1,29 @@
+{
+  "contract": "SMT_repair_mutation_for_UTI_213_4",
+  "tool": "osiris",
+  "start": 1591436398.0324383,
+  "end": 1591436458.9569294,
+  "duration": 60.92449116706848,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/SMT_repair_mutation_for_UTI_213_4.sol",
+      "name": "Controlled"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/SMT_repair_mutation_for_UTI_213_4.sol",
+      "name": "Owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/SMT_repair_mutation_for_UTI_213_4.sol",
+      "name": "SMT"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_uti/SMT_repair_mutation_for_UTI_213_4.sol",
+      "name": "StandardToken"
+    }
+  ]
+}

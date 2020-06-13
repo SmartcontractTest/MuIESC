@@ -1,0 +1,24 @@
+{
+  "contract": "NTO_repair_mutation_for_inttruncate_142_1",
+  "tool": "osiris",
+  "start": 1591403672.8020186,
+  "end": 1591403774.565824,
+  "duration": 101.7638053894043,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NTO_repair_mutation_for_inttruncate_142_1.sol",
+      "name": "FujintoToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NTO_repair_mutation_for_inttruncate_142_1.sol",
+      "name": "owned"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/NTO_repair_mutation_for_inttruncate_142_1.sol",
+      "name": "token"
+    }
+  ]
+}

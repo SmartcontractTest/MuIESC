@@ -1,0 +1,36 @@
+{
+  "contract": "HUB_repair_mutation_for_inttruncate_22_1",
+  "tool": "osiris",
+  "start": 1591398344.263264,
+  "end": 1591398361.8693416,
+  "duration": 17.606077671051025,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/HUB_repair_mutation_for_inttruncate_22_1.sol",
+      "name": "SafeMath"
+    },
+    {
+      "errors": [
+        {
+          "line": 22,
+          "column": 16,
+          "message": "truncation_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/HUB_repair_mutation_for_inttruncate_22_1.sol",
+      "name": "StdToken"
+    },
+    {
+      "errors": [
+        {
+          "line": 22,
+          "column": 16,
+          "message": "truncation_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/HUB_repair_mutation_for_inttruncate_22_1.sol",
+      "name": "UHubToken"
+    }
+  ]
+}

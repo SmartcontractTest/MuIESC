@@ -1,0 +1,25 @@
+{
+  "contract": "MARK_repair_mutation_for_del_line_157",
+  "tool": "osiris",
+  "start": 1591333452.5786033,
+  "end": 1591333504.4698002,
+  "duration": 51.891196966171265,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 159,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MARK_repair_mutation_for_del_line_157.sol",
+      "name": "MyToken"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/MARK_repair_mutation_for_del_line_157.sol",
+      "name": "owned"
+    }
+  ]
+}

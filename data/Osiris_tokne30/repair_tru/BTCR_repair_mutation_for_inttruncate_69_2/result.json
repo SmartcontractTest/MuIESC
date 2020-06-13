@@ -1,0 +1,20 @@
+{
+  "contract": "BTCR_repair_mutation_for_inttruncate_69_2",
+  "tool": "osiris",
+  "start": 1591405540.9436817,
+  "end": 1591405592.7545216,
+  "duration": 51.810839891433716,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/BTCR_repair_mutation_for_inttruncate_69_2.sol",
+      "name": "BitcoinRed"
+    }
+  ]
+}

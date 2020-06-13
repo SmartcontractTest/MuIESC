@@ -1,0 +1,14 @@
+{
+  "contract": "token_repair_mutation_for_inttruncate_15_2",
+  "tool": "osiris",
+  "start": 1591428336.8931515,
+  "end": 1591428338.3575485,
+  "duration": 1.4643969535827637,
+  "analysis": [
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/token_repair_mutation_for_inttruncate_15_2.sol",
+      "name": "Token"
+    }
+  ]
+}

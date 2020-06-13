@@ -1,0 +1,61 @@
+{
+  "contract": "CryptonitexCoin_repair_mutation_for_inttruncate_91_2",
+  "tool": "osiris",
+  "start": 1591408147.9456809,
+  "end": 1591408249.8396318,
+  "duration": 101.89395093917847,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 207,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 206,
+          "column": 9,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 172,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_91_2.sol",
+      "name": "CryptonitexCoin"
+    },
+    {
+      "errors": [
+        {
+          "line": 79,
+          "column": 16,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 76,
+          "column": 9,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 74,
+          "column": 9,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 172,
+          "column": 9,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_91_2.sol",
+      "name": "TokenERC20"
+    },
+    {
+      "errors": [],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_tru/CryptonitexCoin_repair_mutation_for_inttruncate_91_2.sol",
+      "name": "owned"
+    }
+  ]
+}

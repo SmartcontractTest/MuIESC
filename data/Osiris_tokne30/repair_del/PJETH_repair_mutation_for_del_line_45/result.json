@@ -1,0 +1,25 @@
+{
+  "contract": "PJETH_repair_mutation_for_del_line_45",
+  "tool": "osiris",
+  "start": 1591326937.2389126,
+  "end": 1591326988.5192628,
+  "duration": 51.28035020828247,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 47,
+          "column": 13,
+          "message": "overflow_bugs"
+        },
+        {
+          "line": 46,
+          "column": 14,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/int_bugs_9/0604/repair_del/PJETH_repair_mutation_for_del_line_45.sol",
+      "name": "Pajeether"
+    }
+  ]
+}

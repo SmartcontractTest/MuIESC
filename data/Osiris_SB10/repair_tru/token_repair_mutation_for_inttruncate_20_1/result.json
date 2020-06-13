@@ -1,0 +1,25 @@
+{
+  "contract": "token_repair_mutation_for_inttruncate_20_1",
+  "tool": "osiris",
+  "start": 1591428289.5735273,
+  "end": 1591428291.2283852,
+  "duration": 1.654857873916626,
+  "analysis": [
+    {
+      "errors": [
+        {
+          "line": 21,
+          "column": 14,
+          "message": "underflow_bugs"
+        },
+        {
+          "line": 23,
+          "column": 6,
+          "message": "underflow_bugs"
+        }
+      ],
+      "file": "//root/smartbugs/dataset/sbugs_int/0605/mut/repair_tru/token_repair_mutation_for_inttruncate_20_1.sol",
+      "name": "Token"
+    }
+  ]
+}
